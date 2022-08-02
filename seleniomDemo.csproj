@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="by.cs" />
+    <Compile Include="ConstantParams.cs" />
     <Compile Include="iWebdriver.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
